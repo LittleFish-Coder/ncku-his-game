@@ -486,6 +486,11 @@ progress {
   display: none !important;
 }
 
+.qrcode {
+  display: block;
+  margin: 0 auto;
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
